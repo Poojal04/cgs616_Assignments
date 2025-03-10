@@ -1,3 +1,13 @@
+# Search Engine Bias - Assignment 1  
+
+## Introduction  
+
+Many assume that search engines provide **neutral and unbiased results** due to the belief that algorithms operate impartially. However, this is not entirely true, as search engines often reflect **societal prejudices, political influences, or economic interests**. For instance, former U.S. President **Donald Trump** accused Google of bias, claiming it prioritized negative news about him. Google denied this, stating that its algorithms emphasize **relevance over ideology**.  
+
+Bias in search results is especially significant in **controversial topics** or areas with **historical inequalities**. Personalization techniques, such as Google’s **"filter bubble,"** further restrict the diversity of viewpoints users encounter, subtly shaping opinions through **"nudging."**  
+
+Another critical concern is **gender bias** in search results. Many queries related to professions or industries, such as **cricket**, disproportionately highlight **male-centric narratives**, marginalizing women's contributions. Examining these biases helps us understand how digital tools may unintentionally **reinforce societal inequalities**.  
+
 # Fake Review Detection - Assignment 2  
 
 ## Introduction  
